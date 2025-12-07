@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am currently pursuing a PhD in Computer Science and Technology at the School of Computer Science and Engineering, Nanjing University of Science and Technology. I come from the [NIMG](https://nimgroup.github.io/) Laboratory of PcaLab, and my supervisor is Professor [Wu Ye](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=SG7cRR85xcz7VM6iBAQKcg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=). My research focuses on artificial intelligence technology in the field of healthcare.
+Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am currently pursuing a PhD in Computer Science and Technology at the School of Computer Science and Engineering, Nanjing University of Science and Technology. I come from the [NIMG](https://nimgroup.github.io/) of PcaLab, and my supervisor is Professor [Ye Wu](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=SG7cRR85xcz7VM6iBAQKcg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=). My research focuses on artificial intelligence technology in the field of healthcare.
 
 
 Education
@@ -15,9 +15,9 @@ Education
 From September 2020 to June 2024, I pursued a Bachelor's degree in Artificial Intelligence at [Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/); from September 2024 to June 2025, I pursued a Master's degree in Pattern Recognition and Intelligent Systems at [Nanjing University of Science and Technology](https://www.njust.edu.cn/); and from September 2025 to the present, I have been pursuing a Doctoral degree in Computer Science and Technology at Nanjing University of Science and Technology.
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- [Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/) for mathematical equations
+- [Nanjing University of Science and Technology](https://www.njust.edu.cn/) for diagraming
+- [Nanjing University of Science and Technology](https://www.njust.edu.cn/) for plotting
 
 Getting started
 ======
