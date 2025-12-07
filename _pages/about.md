@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-From September 2020 to June 2024, I pursued a Bachelor's degree in Artificial Intelligence at [Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/); from September 2024 to June 2025, I pursued a Master's degree in Pattern Recognition and Intelligent Systems at [Nanjing University of Science and Technology](https://www.njust.edu.cn/); and from September 2025 to the present, I have been pursuing a Doctoral degree in Computer Science and Technology at Nanjing University of Science and Technology.
+
+Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am currently pursuing a PhD in Computer Science and Technology at the School of Computer Science and Engineering, Nanjing University of Science and Technology. I come from the [NIMG](https://nimgroup.github.io/) Laboratory of PcaLab, and my supervisor is Professor [Wu Ye](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=SG7cRR85xcz7VM6iBAQKcg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=). My research focuses on artificial intelligence technology in the field of healthcare.
+
 
 Education
 ======
