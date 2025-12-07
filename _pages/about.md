@@ -23,16 +23,16 @@ Education
 
 
 
-## 📰 News
+📰 News
 ======
 - **2025-12-01** — Served as a reviewer for **ISBI 2025**.
 - **2025-10-04** — Two papers accepted by **IEEE BIBM 2025**  
-  · One first-author paper  
-  · One co-first-author paper  
+  · One first-author paper (regular)
+  · One co-author paper (short)
 
 
 
-## News & Updates
+News & Updates
 ======
 **Dec 1, 2025**  
 • Invited reviewer for the IEEE International Symposium on Biomedical Imaging (**ISBI 2025**)
@@ -44,7 +44,7 @@ Education
 
 
 
-## Latest News
+Latest News
 ======
 🔹 *Dec 1, 2025* — Became a reviewer for **ISBI 2025**  
 🔹 *Oct 4, 2025* — Two papers accepted by **BIBM 2025** (1 First Author + 1 Co-First Author)
