@@ -13,11 +13,9 @@ Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am curre
 🎓 Education
 ======
 - **[Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/)**  
-  B.Eng. in Artificial Intelligence · Sep 2020 – Jun 2024
-
+  B.Eng. in Artificial Intelligence · Sep 2020 – Jun 2024  
 - **[Nanjing University of Science and Technology](https://www.njust.edu.cn/)**  
-  M.Eng. in Pattern Recognition and Intelligent Systems · Sep 2024 – Jun 2025
-
+  M.Eng. in Pattern Recognition and Intelligent Systems · Sep 2024 – Jun 2025  
 - **[Nanjing University of Science and Technology](https://www.njust.edu.cn/)**  
   Ph.D. in Computer Science and Technology · Sep 2025 – Present
 
@@ -25,11 +23,23 @@ Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am curre
 
 📰 News
 ======
-- **2025-12-01** — Served as a reviewer for **IEEE ISBI 2026**  
+- **2025-12-03** — Served as a reviewer for **IEEE ISBI 2026**  
+- **2025-11-28** — Awarded BIBM 2025 **Student travel award** 
 - **2025-10-04** — Two papers accepted by **IEEE BIBM 2025**  
    · One first-author paper (regular)  
    · One co-author paper (short)  
 - **2025-06-23** — One papers accepted by **International Society for Tractography 2025**  
+
+
+🎖️ Awards & Honors
+======
+- **National level** — Contemporary Undergraduate Mathematical Contest in Modeling 2rd  
+- **National level** — Chinese Collegiate Computing Competition 2rd 
+- **2025-10-04** — Two papers accepted by **IEEE BIBM 2025**  
+   · One first-author paper (regular)  
+   · One co-author paper (short)  
+- **2025-06-23** — One papers accepted by **International Society for Tractography 2025**  
+
 
 
 
