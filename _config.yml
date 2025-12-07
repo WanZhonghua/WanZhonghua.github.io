@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhonghua Wan / Site Title"
+title                    : "Zhonghua Wan"
 title_separator          : "-"
 name                     : &name "Zhonghua Wan"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Zhonghua Wan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Nanjing, China"
-  employer         : "Red Brick University"
+  employer         : "Nanjing Uniersit of Science and Technology"
   uri              : # URL
   email            : "zhwan.njust@gmail.com" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0004-3150-4735"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
