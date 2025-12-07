@@ -10,7 +10,7 @@ redirect_from:
 Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am currently pursuing a PhD in Computer Science and Technology at the School of Computer Science and Engineering, Nanjing University of Science and Technology. I come from the [NIMG](https://nimgroup.github.io/) of PcaLab, and my supervisor is Professor [Ye Wu](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=SG7cRR85xcz7VM6iBAQKcg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=). My research focuses on artificial intelligence technology in the field of healthcare.
 
 
-Education
+🎓 Education
 ======
 - **[Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/)**  
   B.Eng. in Artificial Intelligence · Sep 2020 – Jun 2024
