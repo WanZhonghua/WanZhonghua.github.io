@@ -29,7 +29,7 @@ Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am curre
 🔹 **2025-10-04** — Two papers accepted by **IEEE BIBM 2025**  
    · One first-author paper (regular)  
    · One co-author paper (short)  
-🔹 **2025-06-23** — One papers accepted by **International Society Tractography (IST) 2025**  
+🔹 **2025-06-23** — One papers accepted by **International Society for Tractography (IST) 2025**  
 
 
 
