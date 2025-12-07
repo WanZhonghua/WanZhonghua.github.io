@@ -25,12 +25,11 @@ Education
 
 📰 News
 ======
-🔹 **2025-12-01** — Served as a reviewer for **IEEE International Symposium on Biomedical Imaging (ISBI) 2026**.
+🔹 **2025-12-01** — Served as a reviewer for **IEEE International Symposium on Biomedical Imaging (ISBI) 2026**  
 🔹 **2025-10-04** — Two papers accepted by **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2025**  
-  · One first-author paper (regular) 
-  · One co-author paper (short)
+  · One first-author paper (regular)  
+  · One co-author paper (short)  
 🔹 **2025-06-23** — One papers accepted by **International Society Tractography (IST) 2025**  
-
 
 
 
