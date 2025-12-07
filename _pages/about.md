@@ -12,12 +12,9 @@ Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am curre
 
 Education
 ======
-From September 2020 to June 2024, I pursued a Bachelor's degree in Artificial Intelligence at [Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/); from September 2024 to June 2025, I pursued a Master's degree in Pattern Recognition and Intelligent Systems at [Nanjing University of Science and Technology](https://www.njust.edu.cn/); and from September 2025 to the present, I have been pursuing a Doctoral degree in Computer Science and Technology at Nanjing University of Science and Technology.
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/) for mathematical equations
-- [Nanjing University of Science and Technology](https://www.njust.edu.cn/) for diagraming
-- [Nanjing University of Science and Technology](https://www.njust.edu.cn/) for plotting
+- [Nanjing University of Chinese Medicine] B.Eng. in Artificial Intelligence | Sep 2020 – Jun 2024
+- [Nanjing University of Science and Technology](https://www.njust.edu.cn/) M.Eng. in Pattern Recognition and Intelligent Systems | Sep 2024 – Jun 2025
+- [Nanjing University of Science and Technology](https://www.njust.edu.cn/) Ph.D. in Computer Science and Technology | Sep 2025 – Present
 
 Getting started
 ======
