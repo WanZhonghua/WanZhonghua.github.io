@@ -12,10 +12,14 @@ Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am curre
 
 Education
 ======
-- [Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/) B.Eng. in Artificial Intelligence | Sep 2020 – Jun 2024
-- [Nanjing University of Science and Technology](https://www.njust.edu.cn/) M.Eng. in Pattern Recognition and Intelligent Systems | Sep 2024 – Jun 2025
-- [Nanjing University of Science and Technology](https://www.njust.edu.cn/) Ph.D. in Computer Science and Technology | Sep 2025 – Present
+- **[Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/)**  
+  B.Eng. in Artificial Intelligence · Sep 2020 – Jun 2024
 
+- **[Nanjing University of Science and Technology](https://www.njust.edu.cn/)**  
+  M.Eng. in Pattern Recognition and Intelligent Systems · Sep 2024 – Jun 2025
+
+- **[Nanjing University of Science and Technology](https://www.njust.edu.cn/)**  
+  Ph.D. in Computer Science and Technology · Sep 2025 – Present
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
