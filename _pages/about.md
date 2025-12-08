@@ -10,13 +10,14 @@ redirect_from:
 Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am currently pursuing a PhD in Computer Science and Technology at the School of Computer Science and Engineering, Nanjing University of Science and Technology. I come from the [NIMG](https://nimgroup.github.io/) of PcaLab, and my supervisor is Professor [Ye Wu](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=SG7cRR85xcz7VM6iBAQKcg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=). My research focuses on artificial intelligence technology in the field of healthcare.
 
 
+
 🎓 Education
 ======
-- **[Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/)**· Outstanding Graduate  
+- **[Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/)** · Outstanding Graduate  
   B.Eng. in Artificial Intelligence · Sep 2020 – Jun 2024  
-- **[Nanjing University of Science and Technology](https://www.njust.edu.cn/)**· Postgraduate recommendation  
+- **[Nanjing University of Science and Technology](https://www.njust.edu.cn/)** · Postgraduate recommendation  
   M.Eng. in Pattern Recognition and Intelligent Systems · Sep 2024 – Jun 2025  
-- **[Nanjing University of Science and Technology](https://www.njust.edu.cn/)**· Successive postgraduate and doctoral programs of study  
+- **[Nanjing University of Science and Technology](https://www.njust.edu.cn/)** · Integrated Master's and Doctoral Program    
   Ph.D. in Computer Science and Technology · Sep 2025 – Present
 
 
@@ -28,7 +29,9 @@ Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am curre
 - **2025-10-04** — Two papers accepted by **IEEE BIBM 2025**  
    · One first-author paper (regular)  
    · One co-author paper (short)  
-- **2025-06-23** — One papers accepted by **International Society for Tractography 2025**  
+- **2025-06-23** — One paper accepted by **International Society for Tractography 2025**  
+- **2025-05-19** — Granted the  **Postgraduate Research & Practice Innovation Program of Jiangsu Province 2025**  
+
 
 
 🎖️ Awards & Honors
