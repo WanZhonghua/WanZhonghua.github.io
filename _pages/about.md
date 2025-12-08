@@ -17,7 +17,7 @@ Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am curre
   B.Eng. in Artificial Intelligence · Sep 2020 – Jun 2024  
 - **[Nanjing University of Science and Technology](https://www.njust.edu.cn/)** · Postgraduate recommendation  
   M.Eng. in Pattern Recognition and Intelligent Systems · Sep 2024 – Jun 2025  
-- **[Nanjing University of Science and Technology](https://www.njust.edu.cn/)** · Integrated Master's and Doctoral Program    
+- **[Nanjing University of Science and Technology](https://www.njust.edu.cn/)**  
   Ph.D. in Computer Science and Technology · Sep 2025 – Present
 
 
