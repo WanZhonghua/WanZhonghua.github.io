@@ -1,27 +1,12 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; Wuhan, Hubei, China",
+    "Consensus Graph Representation Learning for Subcortical Parcellation on Diffusion MRI<br />VIP Room (Wanda Realm Wuhan, 3F); Wuhan, Hubei, China",
     30.5951051,
     114.2999353
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Cross-Species Cortical Parcellation via Homology Consensus Graph Representation Learning from Diffusion MRI Tractography<br />Grand Ballrooml(Wanda Realm Wuhan, 3F); Wuhan, Hubei, China",
+    30.5951051,
+    114.2999353
   ]
 ];
