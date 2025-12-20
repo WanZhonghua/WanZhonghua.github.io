@@ -26,6 +26,7 @@ Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am curre
 ======
 - **2025-12-03** — Served as a reviewer for **IEEE ISBI 2026**  
 - **2025-11-28** — Awarded BIBM 2025 **Student travel award** 
+- **2025-11-14** — Join ISMRM  as  a **Trainee Membership** 
 - **2025-10-04** — Two papers accepted by **IEEE BIBM 2025**  
    · One first-author paper (regular)  
    · One co-author paper (short)  
