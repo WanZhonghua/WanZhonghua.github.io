@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Ph.D in Computer Science and Technology, Nanjing University of Science and Technology, 2029 (expected)
+* M.S.Engineering in Pattern Recognition and Intelligent System, Nanjing University of Science and Technology, 2024-2025
+* B.S.Engineering in Artificial Intelligence, Nanjing University of Chinese Medicine, 2020-2024
+<!-- 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -30,11 +30,11 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
+* CET-6
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
