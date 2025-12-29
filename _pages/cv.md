@@ -14,23 +14,6 @@ Education
 * Ph.D in Computer Science and Technology, Nanjing University of Science and Technology, 2029 (expected)
 * M.S.Engineering in Pattern Recognition and Intelligent System, Nanjing University of Science and Technology, 2024-2025
 * B.S.Engineering in Artificial Intelligence, Nanjing University of Chinese Medicine, 2020-2024
-<!-- 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
   
 Skills
 ======
