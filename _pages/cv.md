@@ -18,11 +18,13 @@ Education
 Skills
 ======
 * CET-6
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Industrial Internet Platform Development (MIIT Certified, Level 2)
+* Driver’s License: Class C1 (China)
+* Skill 4
+  * Sub-skill 4.1
+  * Sub-skill 4.2
+  * Sub-skill 4.3
+
 
 Publications
 ======
