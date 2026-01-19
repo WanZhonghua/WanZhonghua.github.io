@@ -8,7 +8,7 @@ venue: 'Wireless Internet Technology'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: '../files/智能中成药推荐系统设计_毛苏皖.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: '毛苏皖,龚庆悦,万中华.智能中成药推荐系统设计[J].无线互联科技,2023,20(12):27-29+36.
-'
+citation: '毛苏皖,龚庆悦,万中华.智能中成药推荐系统设计[J].无线互联科技,2023,20(12):27-29+36.'
+
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In response to the current uneven distribution of medical resources, this article designs a "Medicine Identifier" mini-program. This program guides users in rational drug use through functions such as constitution assessment, syndrome differentiation recommendations, traditional Chinese medicine (TCM) search, and a discussion forum. It aims to prevent patients from suffering secondary harm during self-medication due to a lack of TCM knowledge. The mini-program implements medication recommendations based on user symptoms and constitution, assisting patients in purchasing medication independently and preventing delays in treatment due to difficulties accessing medical care.
