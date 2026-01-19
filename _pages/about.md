@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am currently pursuing a PhD in Computer Science and Technology at the School of Computer Science and Engineering, Nanjing University of Science and Technology. I come from the [NIMG](https://nimgroup.github.io/) of PcaLab, and my supervisor is Professor [Ye Wu](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=SG7cRR85xcz7VM6iBAQKcg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=). My research focuses on artificial intelligence technology in the field of healthcare.
+Hello everyone, my name is Wan Zhonghua. I am currently pursuing a PhD in Computer Science and Technology at the School of Computer Science and Engineering, Nanjing University of Science and Technology. I come from the [NIMG](https://nimgroup.github.io/) of PcaLab, and my supervisor is Professor [Ye Wu](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=SG7cRR85xcz7VM6iBAQKcg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=). My research focuses on artificial intelligence technology in the field of healthcare.
 
 
 
@@ -24,9 +24,9 @@ Hello everyone, my name is Wan Zhonghua from HuaiNan, Anhui province. I am curre
 
 📰 News
 ======
+- **2025-12-03** — One paper accepted by **Physics in Medicine & Biology** 
+- **2025-12-18** — Join IEEE  as  a **IEEE Member** 
 - **2025-12-03** — Served as a reviewer for **IEEE ISBI 2026** 
-- **2025-12-03** — Served as a reviewer for **IEEE ISBI 2026** 
-- **2025-12-03** — Served as a reviewer for **IEEE ISBI 2026**  
 - **2025-11-28** — Awarded BIBM 2025 **Student travel award** 
 - **2025-11-14** — Join ISMRM  as  a **Trainee Membership** 
 - **2025-10-04** — Two papers accepted by **IEEE BIBM 2025**  
