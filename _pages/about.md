@@ -24,6 +24,7 @@ Hello everyone, my name is Wan Zhonghua. I am currently pursuing a PhD in Comput
 
 📰 News
 ======
+- **2025-01-16** — One paper accepted by **ISMRM 2026 (Oral)** 
 - **2025-01-16** — One paper accepted by **Physics in Medicine & Biology** 
 - **2025-01-15** — Two papers accepted by **IEEE ISBI 2026**  
 - **2025-12-18** — Join IEEE  as  an **IEEE Member** 
