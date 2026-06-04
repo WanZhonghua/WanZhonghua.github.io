@@ -6,7 +6,6 @@ permalink: /publication/2026-01-16-paper-title-number-1
 excerpt: 'This paper is about subcortical parcealltion.'
 date: 2026-01-16
 venue: 'Physics in Medicine & Biology'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6560/ae399d/pdf'
 bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:ImRb9CFEjcQJ:scholar.google.com/&output=citation&scisdr=Cl_esJkMEL3drW0UmAE:AFtJQiwAAAAAaaQSgAGVZQu0Dr8soyySrhxgGZw&scisig=AFtJQiwAAAAAaaQSgMlw0srhVtIuTkez9muk52c&scisf=4&ct=citation&cd=-1&hl=zh-CN'
 citation: 'Zhonghua Wan et al 2026 Phys. Med. Biol. in press https://doi.org/10.1088/1361-6560/ae399d'
