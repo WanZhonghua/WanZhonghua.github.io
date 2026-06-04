@@ -24,6 +24,8 @@ Hello everyone, my name is Wan Zhonghua. I am currently pursuing a PhD in Comput
 
 📰 News
 ======
+- **2025-05-30** — Awarded **Second Prize** in the **Excellent Paper Competition (Postgraduate)** at **BME 2026**, Track **S13 Medical Artificial Intelligence and Smart Healthcare**
+- **2025-04-22** — One paper accepted by **2026 China Biomedical Engineering Conference & Medical Innovation Summit (On-site Oral)** 
 - **2025-02-04** — One paper accepted by **ISMRM 2026 (Oral)** 
 - **2025-01-16** — One paper accepted by **Physics in Medicine & Biology** 
 - **2025-01-15** — Two papers accepted by **IEEE ISBI 2026**  
@@ -36,6 +38,7 @@ Hello everyone, my name is Wan Zhonghua. I am currently pursuing a PhD in Comput
    · One co-author paper (short)  
 - **2025-06-23** — One paper accepted by **International Society for Tractography 2025**  
 - **2025-05-19** — Granted the  **Postgraduate Research & Practice Innovation Program of Jiangsu Province 2025**  
+
 
 
 
