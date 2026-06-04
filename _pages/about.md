@@ -31,7 +31,7 @@ Hello everyone, my name is Wan Zhonghua. I am currently pursuing a PhD in Comput
 - **2025-01-15** — Two papers accepted by **IEEE ISBI 2026**  
 - **2025-12-18** — Join IEEE  as  an **IEEE Member** 
 - **2025-12-03** — Served as a reviewer for **IEEE ISBI 2026** 
-- **2025-11-28** — Awarded BIBM 2025 **Student travel award** 
+- **2025-11-28** — Awarded BIBM 2025 **Student Travel Award** 
 - **2025-11-14** — Join ISMRM  as  a **Trainee Membership** 
 - **2025-10-04** — Two papers accepted by **IEEE BIBM 2025**  
    · One first-author paper (regular)  
@@ -47,7 +47,7 @@ Hello everyone, my name is Wan Zhonghua. I am currently pursuing a PhD in Comput
 - **National Second Prize** — Contemporary Undergraduate Mathematical Contest in Modeling (2022)    
 - **National Second Prize** — China Biomedical Engineering Conference Paper Competition (2026)  
 - **National Second Prize** — Chinese Collegiate Computing Competition (2023)  
--	**National Sliver Prize** — Traditional Chinese Medicine Innovation Competition (2023)  
+-	**National Sliver Prize** — Traditional Chinese Medicine Innovation Competition (2024)  
 -	**Second Prize** — 14th Blue Bridge Cup (Jiangsu) — Python Programming (2023)   
 -	**First-Class** — Master's Academic Scholarship (2024) 
 -	**Second-Class** — PhD's Academic Scholarship (2025) 
