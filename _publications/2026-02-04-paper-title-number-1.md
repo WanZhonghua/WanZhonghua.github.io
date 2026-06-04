@@ -2,7 +2,7 @@
 title: "White Matter Neural Circuit in the Human Brain: A Cluster-Level Identification via Ensemble Tractography"
 collection: publications
 category: conferences
-permalink: 2026-02-04-paper-title-number-3
+permalink: 2026-02-04-paper-title-number-1
 excerpt: 'This research presents a detailed, anatomically consistent neural circuit arlas constructed via fiber clustering. This provides future researchers with a high-fidelity data resource for studying brain structural connectivity, thereby deepening our understanding of brain organization'
 date: 2026-02-04
 venue: 'International Society for Magnetic Resonance in Medicine'
