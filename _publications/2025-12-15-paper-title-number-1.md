@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-12-15-paper-title-number-1
 excerpt: 'This paper is about Subcortical Parcellation using consensus graph representation learning.'
 date: 2025-12-15
-venue: 'IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2025)'
+venue: 'IEEE International Conference on Bioinformatics and Biomedicine'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11356024/'
 citation: 'Wan Z, Wang P, Zhai Y, et al. Consensus Graph Representation Learning for Subcortical Parcellation on Diffusion MRI[C]//2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2025: 1241-1246.'
 ---

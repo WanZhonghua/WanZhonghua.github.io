@@ -1,6 +1,6 @@
 ---
-title: "National Second Prize — Chinese Collegiate Computing Competition (2023)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/award/4c2023.jpg'>"
+title: "BME2026"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/award/BME2026.jpg'>"
 collection: portfolio
 ---
 

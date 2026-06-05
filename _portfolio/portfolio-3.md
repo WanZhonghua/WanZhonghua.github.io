@@ -1,6 +1,6 @@
 ---
 title: "Student Travel Grant — IEEE BIBM 2025"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/award/StudenTravelGrant.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/award/BIBM2025.jpg'>"
 collection: portfolio
 ---
 
