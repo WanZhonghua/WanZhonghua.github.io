@@ -20,10 +20,6 @@ Skills
 * CET-6
 * Industrial Internet Platform Development (MIIT Certified, Level 2)
 * Driver’s License: Class C1 (China)
-* Skill 4
-  * Sub-skill 4.1
-  * Sub-skill 4.2
-  * Sub-skill 4.3
 
 
 Publications
@@ -38,6 +34,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -1,5 +1,5 @@
 ---
-title: "National Second Prize — Chinese Collegiate Computing Competition (2023)"
+title: "National Second Prize — Contemporary Undergraduate Mathematical Contest in Modeling (2022)"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/award/cumcm2022.jpg'>"
 collection: portfolio
 ---
