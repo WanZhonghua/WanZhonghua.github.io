@@ -1,5 +1,5 @@
 ---
-title: "BME2026"
+title: "National Silver Prize — China Biomedical Engineering Conference Paper Competition (2026)"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/award/BME2026.jpg'>"
 collection: portfolio
 ---

@@ -1,5 +1,5 @@
 ---
-title: "TCM2024"
+title: "National Silver Prize — Traditional Chinese Medicine Innovation Competition (2024)"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/award/TCM2024.jpg'>"
 collection: portfolio
 ---
