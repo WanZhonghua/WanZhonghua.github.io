@@ -1,7 +1,7 @@
 ---
-title: "National Silver Prize — China Biomedical Engineering Conference Paper Competition (2026)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/award/BME2026.jpg'>"
+title: "National Second Prize — China Biomedical Engineering Conference Paper Competition (2026)"
+excerpt: "A national Second-prize-winning paper on white matter neural circuit identification using ensemble tractography.<br/><img src='/images/award/BME2026.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This work presents a diffusion MRI-based ensemble tractography approach for identifying white matter neural circuits in the human brain. It constructs anatomically consistent circuit-level representations to support research on brain structural connectivity.

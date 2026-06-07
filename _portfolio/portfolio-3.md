@@ -1,7 +1,7 @@
 ---
 title: "National Silver Prize — Traditional Chinese Medicine Innovation Competition (2024)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/award/TCM2024.jpg'>"
+excerpt: "A medical innovation project developing a fourth-generation blood pressure monitor with synchronized ECG measurement and TCM-based health management services.<br/><img src='/images/award/TCM2024.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project focuses on **Xinwuyou**, a fourth-generation blood pressure monitor designed to measure blood pressure and ECG signals simultaneously. It integrates cardiovascular risk assessment, intelligent ECG interpretation, and Traditional Chinese Medicine-based health management services to support early warning and daily chronic disease monitoring.

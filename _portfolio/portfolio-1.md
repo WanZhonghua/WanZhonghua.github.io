@@ -1,7 +1,7 @@
 ---
 title: "National Second Prize — Contemporary Undergraduate Mathematical Contest in Modeling (2022)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/award/cumcm2022.jpg'>"
+excerpt: "A mathematical modeling study on the composition analysis and classification of ancient glass artifacts using statistical tests, clustering, and machine learning methods.<br/><img src='/images/award/cumcm2022.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project investigated the composition analysis and identification of ancient glass artifacts. We applied statistical testing, fuzzy C-means clustering, support vector machines, and correlation analysis to study weathering effects, classify glass types, and predict the categories of unknown samples.

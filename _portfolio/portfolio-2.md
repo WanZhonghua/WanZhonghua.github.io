@@ -1,7 +1,7 @@
 ---
 title: "National Second Prize — Chinese Collegiate Computing Competition (2023)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/award/4c2023.jpg'>"
+excerpt: "An AI-powered posture diagnosis system based on a lightweight OpenPose model for intelligent body posture assessment.<br/><img src='/images/award/4c2023.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project presents **Posture Manager**, an intelligent posture diagnosis system based on a lightweight OpenPose model. By detecting human skeletal keypoints from frontal and lateral images, the system can identify common posture problems and generate personalized assessment reports with corrective suggestions.
