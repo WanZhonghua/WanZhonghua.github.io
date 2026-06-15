@@ -29,10 +29,7 @@ Hello everyone, my name is Wan Zhonghua. I am currently pursuing a PhD in Comput
 - **2025-04-22** — One paper accepted by **2026 China Biomedical Engineering Conference & Medical Innovation Summit (On-site Oral)** 
 - **2025-02-04** — One paper accepted by **ISMRM 2026 (Oral)** 
 - **2025-01-16** — One paper accepted by **Physics in Medicine & Biology** 
-- **2025-12-18** — Join IEEE  as  an **IEEE Member** 
-- **2025-12-03** — Served as a reviewer for **IEEE ISBI 2026** 
-- **2025-11-28** — Awarded BIBM 2025 **Student Travel Award** 
-- **2025-11-14** — Join ISMRM  as  a **Trainee Membership** 
+- **2025-11-28** — Awarded BIBM 2025 **Student Travel Grant** 
 - **2025-10-04** — One paper accepted by **IEEE BIBM 2025 (regular)**  
 - **2025-06-23** — One paper accepted by **International Society for Tractography 2025**  
 - **2025-05-19** — Granted the  **Postgraduate Research & Practice Innovation Program of Jiangsu Province 2025**  
