@@ -41,10 +41,10 @@ Professional Service
 
 Professional Memberships
 ======
-* IEEE, Member, 2025–present
+* Institute of Electrical and Electronics Engineers (IEEE), Member, 2025–present
 * Medical Image Computing and Computer Assisted Intervention Society (MICCAI Society), Member, 2026–present
 * International Society for Magnetic Resonance in Medicine (ISMRM), Member, 2025–present
-* Chinese Society of Biomedical Engineering, Member, 2024–present
+* Chinese Society of Biomedical Engineering (CSBE), Member, 2025–present
 
 
 Patents
