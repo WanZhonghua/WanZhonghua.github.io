@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
+<div class="cv-download-links">
+  <a href="/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+</div>
+
+
 Education
 ======
 * Ph.D in Computer Science and Technology, Nanjing University of Science and Technology, 2029 (expected)
