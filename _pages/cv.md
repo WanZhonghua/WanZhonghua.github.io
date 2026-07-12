@@ -22,12 +22,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 
 Funding
 ======
@@ -36,6 +30,7 @@ Funding
 
 Professional Service
 ======
+* Program Committee Member, IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2026
 * Reviewer, IEEE International Symposium on Biomedical Imaging (ISBI), 2026
 
 
@@ -57,6 +52,13 @@ Software Copyrights
 ======
 * Posture Manager: Intelligent Morphology Diagnosis System Based on Lightweight Models V1.0 (Registered)
 * Intelligent Recommendation System for Chinese Patent Medicines V1.0 (Registered)
+
+
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
 
 
 Skills
