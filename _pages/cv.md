@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-<div class="cv-download-links">
+<!-- <div class="cv-download-links">
   <a href="/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-</div>
+</div> -->
 
 
 Education
