@@ -30,8 +30,8 @@ Funding
 
 Professional Service
 ======
-* Program Committee Member, IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2026
-* Reviewer, IEEE International Symposium on Biomedical Imaging (ISBI), 2026
+* Program Committee Member, IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM), 2026
+* Technical Program Committee Reviewer, IEEE International Symposium on Biomedical Imaging (IEEE ISBI), 2026
 
 
 Professional Memberships
