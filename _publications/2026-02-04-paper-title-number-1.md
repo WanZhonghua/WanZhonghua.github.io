@@ -6,7 +6,7 @@ permalink: 2026-02-04-paper-title-number-1
 excerpt: 'This research presents a detailed, anatomically consistent neural circuit arlas constructed via fiber clustering. This provides future researchers with a high-fidelity data resource for studying brain structural connectivity, thereby deepening our understanding of brain organization'
 date: 2026-02-04
 venue: 'International Society for Magnetic Resonance in Medicine'
-paperurl: 'https://cdn.fourwaves.com/static/media/formdata/de5be2ac-69bf-4a17-93cc-c769fdabfeca/a6a7d06f-18e9-4366-8ccc-752804f06af3.pdf'
+paperurl: 'https://echo.ismrm.org/abstracts/view/fb3a0f4b-819e-4afa-8265-9144dd886eb0'
 citation: 'Zhonghua Wan. (2025). &quot;White Matter Neural Circuit in the Human Brain: A Cluster-Level Identification via Ensemble Tractography; <i>International Society for Magnetic Resonance in Medicine</i>. 1(3).'
 ---
 

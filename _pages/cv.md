@@ -36,17 +36,8 @@ Funding
 
 Professional Service
 ======
-* Program Committee Member, IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM), 2026
-* Technical Program Committee Reviewer, IEEE International Symposium on Biomedical Imaging (IEEE ISBI), 2026
-
-
-Professional Memberships
-======
-* Institute of Electrical and Electronics Engineers (IEEE), Member, 2025–present
-* Medical Image Computing and Computer Assisted Intervention Society (MICCAI Society), Member, 2026–present
-* International Society for Magnetic Resonance in Medicine (ISMRM), Member, 2025–present
-* Chinese Society of Biomedical Engineering (CSBE), Member, 2025–present
-
+* Program Committee Member, IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2026
+* Technical Program Committee Reviewer, IEEE International Symposium on Biomedical Imaging (ISBI), 2026
 
 Patents
 ======
@@ -59,6 +50,14 @@ Software Copyrights
 * Posture Manager: Intelligent Morphology Diagnosis System Based on Lightweight Models V1.0 (Registered)
 * Intelligent Recommendation System for Chinese Patent Medicines V1.0 (Registered)
 
+
+Professional Memberships
+======
+* Institute of Electrical and Electronics Engineers (IEEE), Member, 2025–present
+* Medical Image Computing and Computer Assisted Intervention Society (MICCAI Society), Member, 2026–present
+* International Society for Magnetic Resonance in Medicine (ISMRM), Member, 2025–present
+* Chinese Society of Biomedical Engineering (CSBE), Member, 2025–present
+* Medical Imaging Computing Seminar (MICS), Student Member, 2025–present
 
 Talks
 ======
