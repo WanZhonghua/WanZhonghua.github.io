@@ -24,11 +24,11 @@ Hello everyone, my name is Wan Zhonghua. I am currently pursuing a PhD in Comput
 
 📰 News
 ======
-- **2025-06-13** — One paper accepted by **MICCAI 2026**  
-- **2025-05-30** — Awarded **Second Prize** in the **Excellent Paper Competition (Postgraduate)** at **BME 2026**
-- **2025-04-22** — One paper accepted by **2026 China Biomedical Engineering Conference & Medical Innovation Summit (On-site Oral)** 
-- **2025-02-04** — One paper accepted by **ISMRM 2026 (Oral)** 
-- **2025-01-16** — One paper accepted by **Physics in Medicine & Biology** 
+- **2026-06-13** — One paper accepted by **MICCAI 2026**  
+- **2026-05-30** — Awarded **Second Prize** in the **Excellent Paper Competition (Postgraduate)** at **BME 2026**
+- **2026-04-22** — One paper accepted by **2026 China Biomedical Engineering Conference & Medical Innovation Summit (On-site Oral)** 
+- **2026-02-04** — One paper accepted by **ISMRM 2026 (Oral)** 
+- **2026-01-16** — One paper accepted by **Physics in Medicine & Biology** 
 - **2025-11-28** — Awarded BIBM 2025 **Student Travel Grant** 
 - **2025-10-04** — One paper accepted by **IEEE BIBM 2025 (regular)**  
 - **2025-06-23** — One paper accepted by **International Society for Tractography 2025**  
